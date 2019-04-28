@@ -1,0 +1,12 @@
+{
+  "parser": "babel-eslint",
+  "rules": {
+    "no-console": "warn",
+    "linebreak-style": ["error", "windows"],
+    "quotes": "off",
+    "no-path-concat": "off",
+    "prefer-template": "off",
+    "comma-dangle": "off"
+  },
+  "extends": ["airbnb-base"]
+}
